@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "264315458469",
+    "firebase_url": "https://modul6-5294d.firebaseio.com",
+    "project_id": "modul6-5294d",
+    "storage_bucket": "modul6-5294d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264315458469:android:30aa14c6682f26ef",
+        "android_client_info": {
+          "package_name": "com.example.android.Rifyandaru_1202150088_MODUL6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264315458469-6rukkenp7uls80f92rlahfu0hu2d1nkm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.Rifyandaru_1202150088_MODUL6",
+            "certificate_hash": "8fbbdca50397a6026947b69bb3eca1d50a5542ad"
+          }
+        },
+        {
+          "client_id": "264315458469-g4sb462ei1adf90isdavn2e76chadkol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdPBkAxRZjvTDZiiHzo1zOTZjBYVs2wy0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264315458469-g4sb462ei1adf90isdavn2e76chadkol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264315458469:android:db86d8bc07679cf8",
+        "android_client_info": {
+          "package_name": "com.lesson4.android.rifyandaruwibisono_1202150088_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264315458469-5vevv6bqdnv971m2ku9f1k30l8gm451c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lesson4.android.rifyandaruwibisono_1202150088_modul6",
+            "certificate_hash": "8fbbdca50397a6026947b69bb3eca1d50a5542ad"
+          }
+        },
+        {
+          "client_id": "264315458469-g4sb462ei1adf90isdavn2e76chadkol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdPBkAxRZjvTDZiiHzo1zOTZjBYVs2wy0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264315458469-g4sb462ei1adf90isdavn2e76chadkol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
